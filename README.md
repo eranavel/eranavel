@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **eranavel/eranavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Banner Image](./home.png)
+
+
+<h2>Hey! 👋</h2>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=eranavel.eranavel)](https://github.com/eranavel) [![GitHub followers](https://img.shields.io/github/followers/eranavel.svg?style=social&label=Follow)](https://github.com/eranavel?tab=followers)
+
+I'm Eranavel Erana! 
