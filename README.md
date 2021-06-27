@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner Image](./home.png) 
+![Banner Image](./home_1.png) 
 
 <B>Hey there</b> <img src="./vanakkam.png" width="30px">
 
